@@ -1,0 +1,814 @@
+info: Mar-29-2021 23:24:22: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:24:22: 	MongoDB Connection established
+info: Mar-29-2021 23:26:00: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:26:00: 	MongoDB Connection established
+info: Mar-29-2021 23:26:04: 	Process create request for email:user2@mail.com
+error: Mar-29-2021 23:26:04: 	User user2@mail.com creation failed
+error: Mar-29-2021 23:26:04: 	undefined
+info: Mar-29-2021 23:26:46: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:26:46: 	MongoDB Connection established
+info: Mar-29-2021 23:26:49: 	Process create request for email:user2@mail.com
+error: Mar-29-2021 23:26:49: 	User user2@mail.com creation failed
+error: Mar-29-2021 23:26:49: 	User validation failed: email: Error, expected `email` to be unique. Value: `user2@mail.com`
+info: Mar-29-2021 23:34:43: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:34:43: 	MongoDB Connection established
+info: Mar-29-2021 23:35:21: 	Process create request for email:user2@mail.com
+error: Mar-29-2021 23:35:21: 	User user2@mail.com creation failed
+error: Mar-29-2021 23:35:21: 	User validation failed: email: Error, expected `email` to be unique. Value: `user2@mail.com`
+info: Mar-29-2021 23:35:26: 	Process create request for email:user3@mail.com
+info: Mar-29-2021 23:35:26: 	User user3@mail.com created successfully
+info: Mar-29-2021 23:49:01: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:49:01: 	MongoDB Connection established
+error: Mar-29-2021 23:49:06: 	User test1 not found
+error: Mar-29-2021 23:49:06: 	undefined
+info: Mar-29-2021 23:51:30: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:51:30: 	MongoDB Connection established
+error: Mar-29-2021 23:51:33: 	User test1 not found
+error: Mar-29-2021 23:51:33: 	Cannot read property 'email' of undefined
+info: Mar-29-2021 23:53:29: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:53:29: 	MongoDB Connection established
+error: Mar-29-2021 23:53:32: 	User test1 not found
+error: Mar-29-2021 23:53:32: 	Invalid password for test1
+info: Mar-29-2021 23:56:15: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:56:15: 	MongoDB Connection established
+error: Mar-29-2021 23:56:21: 	User test1 not found
+error: Mar-29-2021 23:56:21: 	undefined
+info: Mar-29-2021 23:56:52: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:56:52: 	MongoDB Connection established
+error: Mar-29-2021 23:56:55: 	User test1 not found
+error: Mar-29-2021 23:56:55: 	undefined
+info: Mar-29-2021 23:58:04: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:58:04: 	MongoDB Connection established
+error: Mar-29-2021 23:58:09: 	User test1 not found
+error: Mar-29-2021 23:58:09: 	Authentication fail
+info: Mar-29-2021 23:59:19: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:59:19: 	MongoDB Connection established
+info: Mar-29-2021 23:59:54: 	Users-service-app listening on port 3001
+info: Mar-29-2021 23:59:54: 	MongoDB Connection established
+info: Mar-30-2021 00:00:00: 	User: user3@mail.com data found
+info: Mar-30-2021 00:00:00: 	Login: user3@mail.com|6062b89e4fb0a65bff18485c
+info: Mar-30-2021 00:00:00: 	User: user3@mail.com correct password
+info: Mar-30-2021 00:40:30: 	Users-service-app listening on port 3001
+info: Mar-30-2021 00:40:30: 	MongoDB Connection established
+error: Mar-30-2021 00:41:11: 	User undefined not found
+error: Mar-30-2021 00:41:11: 	User not found
+error: Mar-30-2021 00:42:23: 	User undefined not found
+error: Mar-30-2021 00:42:23: 	User not found
+info: Mar-30-2021 00:43:04: 	Users-service-app listening on port 3001
+info: Mar-30-2021 00:43:04: 	MongoDB Connection established
+info: Mar-30-2021 00:43:09: 	User: user3@mail.com data found
+error: Mar-30-2021 00:43:26: 	User user4@mail.com not found
+error: Mar-30-2021 00:43:26: 	User not found
+info: Mar-30-2021 00:57:17: 	Users-service-app listening on port 3001
+info: Mar-30-2021 00:57:17: 	MongoDB Connection established
+info: Mar-30-2021 00:58:06: 	Process update request for email:user@mail.com
+info: Mar-30-2021 00:58:06: 	User: user@mail.com data found
+info: Mar-30-2021 00:58:06: 	User user@mail.com updated successfully
+info: Mar-30-2021 00:58:54: 	User: user@mail.com data found
+info: Mar-30-2021 00:58:54: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 00:58:54: 	User: user@mail.com correct password
+info: Mar-30-2021 00:58:58: 	User: user@mail.com data found
+error: Mar-30-2021 00:58:58: 	Invalid password for user@mail.com
+error: Mar-30-2021 00:58:58: 	Authentication fail
+info: Mar-30-2021 00:59:04: 	User: user@mail.com data found
+info: Mar-30-2021 00:59:04: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 00:59:04: 	User: user@mail.com correct password
+info: Mar-30-2021 01:07:50: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:07:50: 	MongoDB Connection established
+info: Mar-30-2021 01:08:17: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:08:17: 	MongoDB Connection established
+info: Mar-30-2021 01:08:23: 	User user3@mail.com deleted successfully
+info: Mar-30-2021 01:08:33: 	User user3@mail.com deleted successfully
+info: Mar-30-2021 01:11:23: 	User user3@mail.com deleted successfully
+info: Mar-30-2021 01:12:14: 	Process create request for email:user3@mail.com
+info: Mar-30-2021 01:12:14: 	User user3@mail.com created successfully
+info: Mar-30-2021 01:14:07: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:14:07: 	MongoDB Connection established
+info: Mar-30-2021 01:14:14: 	User user3@mail.com deleted successfully
+info: Mar-30-2021 01:14:17: 	User user3@mail.com deleted successfully
+info: Mar-30-2021 01:14:27: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:14:27: 	MongoDB Connection established
+info: Mar-30-2021 01:14:31: 	User user3@mail.com deleted successfully
+info: Mar-30-2021 01:14:52: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:14:52: 	MongoDB Connection established
+error: Mar-30-2021 01:14:56: 	User user3@mail.com error on delete
+info: Mar-30-2021 01:17:32: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:17:32: 	MongoDB Connection established
+error: Mar-30-2021 01:17:37: 	User user3@mail.com error on delete
+info: Mar-30-2021 01:19:08: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:19:08: 	MongoDB Connection established
+error: Mar-30-2021 01:19:11: 	User user3@mail.com error on delete
+info: Mar-30-2021 01:29:42: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:29:42: 	MongoDB Connection established
+info: Mar-30-2021 01:30:07: 	User: user@mail.com data found
+info: Mar-30-2021 01:30:07: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 01:30:07: 	User: user@mail.com correct password
+info: Mar-30-2021 01:31:57: 	[object Object]
+info: Mar-30-2021 01:33:11: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:33:11: 	MongoDB Connection established
+info: Mar-30-2021 01:33:15: 	[object Object]
+info: Mar-30-2021 01:34:49: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:34:49: 	MongoDB Connection established
+info: Mar-30-2021 01:34:52: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+error: Mar-30-2021 01:35:18: 	Authentication fail
+error: Mar-30-2021 01:35:18: 	invalid token
+info: Mar-30-2021 01:35:42: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:35:42: 	MongoDB Connection established
+error: Mar-30-2021 01:35:45: 	Authentication fail
+error: Mar-30-2021 01:35:45: 	invalid token
+error: Mar-30-2021 01:36:00: 	Authentication fail
+error: Mar-30-2021 01:36:00: 	jwt expired
+error: Mar-30-2021 01:36:19: 	Authentication fail
+error: Mar-30-2021 01:36:19: 	jwt expired
+info: Mar-30-2021 01:37:31: 	Users-service-app listening on port 3001
+info: Mar-30-2021 01:37:31: 	MongoDB Connection established
+error: Mar-30-2021 01:37:34: 	Authentication fail
+error: Mar-30-2021 01:37:34: 	jwt expired
+info: Mar-30-2021 01:37:39: 	User: user@mail.com data found
+info: Mar-30-2021 01:37:39: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 01:37:39: 	User: user@mail.com correct password
+error: Mar-30-2021 01:37:47: 	Authentication fail
+error: Mar-30-2021 01:37:47: 	invalid token
+info: Mar-30-2021 01:38:04: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 10:19:00: 	User: user@mail.com data found
+info: Mar-30-2021 10:19:00: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 10:19:00: 	User: user@mail.com correct password
+info: Mar-30-2021 10:38:59: 	Users-service-app listening on port 3001
+info: Mar-30-2021 10:38:59: 	MongoDB Connection established
+info: Mar-30-2021 10:39:10: 	User: user@mail.com data found
+info: Mar-30-2021 10:39:10: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 10:39:10: 	User: user@mail.com correct password
+error: Mar-30-2021 10:42:10: 	Authentication fail
+error: Mar-30-2021 10:42:10: 	jwt expired
+error: Mar-30-2021 10:45:51: 	Authentication fail
+error: Mar-30-2021 10:45:51: 	jwt expired
+error: Mar-30-2021 10:46:05: 	Authentication fail
+error: Mar-30-2021 10:46:05: 	jwt expired
+error: Mar-30-2021 10:46:36: 	Authentication fail
+error: Mar-30-2021 10:46:36: 	jwt expired
+error: Mar-30-2021 10:47:26: 	Authentication fail
+error: Mar-30-2021 10:47:26: 	jwt expired
+error: Mar-30-2021 10:48:46: 	Authentication fail
+error: Mar-30-2021 10:48:46: 	jwt expired
+error: Mar-30-2021 10:49:36: 	Authentication fail
+error: Mar-30-2021 10:49:36: 	jwt expired
+error: Mar-30-2021 10:51:47: 	Authentication fail
+error: Mar-30-2021 10:51:47: 	jwt expired
+info: Mar-30-2021 10:53:04: 	User: user@mail.com data found
+info: Mar-30-2021 10:53:05: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 10:53:05: 	User: user@mail.com correct password
+error: Mar-30-2021 10:53:27: 	Authentication fail
+error: Mar-30-2021 10:53:27: 	jwt expired
+info: Mar-30-2021 10:53:54: 	User: user@mail.com data found
+info: Mar-30-2021 10:53:54: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 10:53:54: 	User: user@mail.com correct password
+info: Mar-30-2021 10:54:13: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 10:56:42: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+error: Mar-30-2021 11:00:27: 	Authentication fail
+error: Mar-30-2021 11:00:27: 	jwt expired
+info: Mar-30-2021 11:00:52: 	Users-service-app listening on port 3001
+info: Mar-30-2021 11:00:52: 	MongoDB Connection established
+info: Mar-30-2021 11:00:59: 	User: user@mail.com data found
+info: Mar-30-2021 11:01:00: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 11:01:00: 	User: user@mail.com correct password
+error: Mar-30-2021 11:01:11: 	Authentication fail
+error: Mar-30-2021 11:01:11: 	jwt expired
+info: Mar-30-2021 11:01:19: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 11:01:48: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 12:15:40: 	User: user@mail.com data found
+info: Mar-30-2021 12:15:40: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 12:15:40: 	User: user@mail.com correct password
+info: Mar-30-2021 12:15:56: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 12:22:20: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 15:38:48: 	Users-service-app listening on port 3001
+info: Mar-30-2021 15:38:48: 	MongoDB Connection established
+info: Mar-30-2021 15:39:05: 	User: user@mail.com data found
+info: Mar-30-2021 15:39:05: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:39:05: 	User: user@mail.com correct password
+error: Mar-30-2021 15:39:24: 	Authentication fail
+error: Mar-30-2021 15:39:24: 	jwt expired
+error: Mar-30-2021 15:39:28: 	Authentication fail
+error: Mar-30-2021 15:39:28: 	jwt expired
+info: Mar-30-2021 15:39:35: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+error: Mar-30-2021 15:51:28: 	Authentication fail
+error: Mar-30-2021 15:51:28: 	jwt expired
+info: Mar-30-2021 15:51:33: 	User: user@mail.com data found
+info: Mar-30-2021 15:51:33: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:51:33: 	User: user@mail.com correct password
+info: Mar-30-2021 15:51:53: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 15:52:37: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 15:57:31: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 15:57:50: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 15:58:51: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 15:58:58: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 16:52:45: 	User: user@mail.com data found
+info: Mar-30-2021 16:52:45: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 16:52:45: 	User: user@mail.com correct password
+info: Mar-30-2021 16:52:48: 	User: user@mail.com data found
+info: Mar-30-2021 16:52:48: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 16:52:48: 	User: user@mail.com correct password
+info: Mar-30-2021 16:54:58: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 16:59:08: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 16:59:30: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 16:59:57: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 17:00:08: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 17:00:26: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 17:00:36: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+error: Mar-30-2021 17:06:23: 	Authentication fail
+error: Mar-30-2021 17:06:23: 	jwt expired
+info: Mar-30-2021 17:06:28: 	User: user@mail.com data found
+info: Mar-30-2021 17:06:28: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:06:28: 	User: user@mail.com correct password
+info: Mar-30-2021 17:06:47: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 17:09:08: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 17:12:18: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 17:12:25: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 17:12:30: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 17:12:35: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+error: Mar-30-2021 23:15:23: 	Authentication fail
+error: Mar-30-2021 23:15:23: 	jwt expired
+info: Mar-30-2021 23:42:57: 	User: user@mail.com data found
+info: Mar-30-2021 23:42:57: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:42:57: 	User: user@mail.com correct password
+info: Mar-30-2021 23:43:43: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:43:56: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:46:09: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:48:21: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:48:32: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:48:46: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:49:48: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:50:52: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+error: Mar-30-2021 23:57:30: 	Authentication fail
+error: Mar-30-2021 23:57:30: 	jwt expired
+info: Mar-30-2021 23:57:38: 	User: user@mail.com data found
+info: Mar-30-2021 23:57:38: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:57:38: 	User: user@mail.com correct password
+info: Mar-30-2021 23:57:55: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:58:34: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-30-2021 23:59:29: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:01:22: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:04:15: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+error: Mar-31-2021 00:09:50: 	Authentication fail
+error: Mar-31-2021 00:09:50: 	jwt expired
+info: Mar-31-2021 00:09:57: 	User: user@mail.com data found
+info: Mar-31-2021 00:09:57: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:09:57: 	User: user@mail.com correct password
+info: Mar-31-2021 00:09:59: 	User: user@mail.com data found
+info: Mar-31-2021 00:09:59: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:09:59: 	User: user@mail.com correct password
+info: Mar-31-2021 00:10:15: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:10:33: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:11:34: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:11:42: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:12:38: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:13:06: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:15:11: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:15:15: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:15:25: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:18:14: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:18:18: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 00:18:27: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 01:32:38: 	Users-service-app listening on port 3001
+info: Mar-31-2021 01:32:38: 	MongoDB Connection established
+info: Mar-31-2021 01:32:49: 	User: user@mail.com data found
+info: Mar-31-2021 01:32:49: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 01:32:49: 	User: user@mail.com correct password
+info: Mar-31-2021 01:37:20: 	User: user@mail.com data found
+info: Mar-31-2021 01:37:20: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 01:37:20: 	User: user@mail.com correct password
+info: Mar-31-2021 01:47:23: 	User: user@mail.com data found
+info: Mar-31-2021 01:47:23: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 01:47:23: 	User: user@mail.com correct password
+info: Mar-31-2021 01:49:18: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 01:52:06: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 08:53:47: 	User: user@mail.com data found
+info: Mar-31-2021 08:53:47: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 08:53:47: 	User: user@mail.com correct password
+info: Mar-31-2021 10:02:40: 	User: user@mail.com data found
+info: Mar-31-2021 10:02:40: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:02:40: 	User: user@mail.com correct password
+info: Mar-31-2021 10:05:21: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:13:33: 	User: user@mail.com data found
+info: Mar-31-2021 10:13:33: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:13:33: 	User: user@mail.com correct password
+info: Mar-31-2021 10:14:50: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:20:46: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:21:10: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:23:40: 	User: user@mail.com data found
+info: Mar-31-2021 10:23:40: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:23:40: 	User: user@mail.com correct password
+info: Mar-31-2021 10:23:56: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:24:06: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:24:40: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:27:04: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:27:06: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:27:09: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 10:30:15: 	Process create request for email:test-user@mail.com
+info: Mar-31-2021 10:30:15: 	User test-user@mail.com created successfully
+info: Mar-31-2021 10:30:25: 	User: test-user@mail.com data found
+info: Mar-31-2021 10:30:25: 	Login: test-user@mail.com|6064a3977413ad32d7ac035f
+info: Mar-31-2021 10:30:25: 	User: test-user@mail.com correct password
+info: Mar-31-2021 10:31:38: 	Valid token email: test-user@mail.com, userId: 6064a3977413ad32d7ac035f 
+info: Mar-31-2021 12:27:28: 	Login: user@mail.com|123456
+info: Mar-31-2021 12:28:17: 	Login: user@mail.com|123456
+info: Mar-31-2021 12:31:18: 	Login: user@mail.com|123456
+info: Mar-31-2021 12:31:18: 	Login: user@mail.com|123456
+info: Mar-31-2021 12:34:33: 	Login: user@mail.com|123
+info: Mar-31-2021 12:36:31: 	Login: user@mail.com|123
+info: Mar-31-2021 12:36:55: 	Login: user@mail.com|123
+info: Mar-31-2021 12:37:24: 	Login: user@mail.com|123
+info: Mar-31-2021 12:38:13: 	Login: user@mail.com|123
+info: Mar-31-2021 12:39:05: 	Login: user@mail.com|123
+info: Mar-31-2021 12:40:55: 	Login: user@mail.com|123
+info: Mar-31-2021 12:41:30: 	Login: user@mail.com|123
+info: Mar-31-2021 12:43:52: 	Login: user@mail.com|123
+info: Mar-31-2021 12:48:19: 	Login: user@mail.com|123
+info: Mar-31-2021 12:48:19: 	Login: user@mail.com|123
+error: Mar-31-2021 12:48:19: 	Authentication fail
+error: Mar-31-2021 12:48:19: 	jwt must be a string
+info: Mar-31-2021 12:48:54: 	Login: user@mail.com|123
+info: Mar-31-2021 12:48:54: 	Login: user@mail.com|123
+info: Mar-31-2021 12:48:54: 	Valid token email: user@mail.com, userId: 123 
+info: Mar-31-2021 12:51:00: 	Login: user@mail.com|123
+info: Mar-31-2021 12:51:00: 	Login: user@mail.com|123
+info: Mar-31-2021 12:51:00: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 12:51:00: 	Authentication fail
+error: Mar-31-2021 12:51:00: 	jwt expired
+info: Mar-31-2021 14:14:25: 	Login: user@mail.com|123
+info: Mar-31-2021 14:14:25: 	Login: user@mail.com|123
+info: Mar-31-2021 14:14:25: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:14:25: 	Authentication fail
+error: Mar-31-2021 14:14:25: 	jwt expired
+info: Mar-31-2021 14:16:21: 	Login: user@mail.com|123
+info: Mar-31-2021 14:16:21: 	Login: user@mail.com|123
+info: Mar-31-2021 14:16:21: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:16:21: 	Authentication fail
+error: Mar-31-2021 14:16:21: 	jwt expired
+info: Mar-31-2021 14:20:54: 	Login: user@mail.com|123
+info: Mar-31-2021 14:20:54: 	Login: user@mail.com|123
+info: Mar-31-2021 14:20:54: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:20:54: 	Authentication fail
+error: Mar-31-2021 14:20:54: 	jwt expired
+info: Mar-31-2021 14:22:15: 	Login: user@mail.com|123
+info: Mar-31-2021 14:22:15: 	Login: user@mail.com|123
+info: Mar-31-2021 14:22:15: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:22:15: 	Authentication fail
+error: Mar-31-2021 14:22:15: 	jwt expired
+info: Mar-31-2021 14:22:35: 	Login: user@mail.com|123
+info: Mar-31-2021 14:22:35: 	Login: user@mail.com|123
+info: Mar-31-2021 14:22:35: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:22:35: 	Authentication fail
+error: Mar-31-2021 14:22:35: 	jwt expired
+info: Mar-31-2021 14:23:14: 	Login: user@mail.com|123
+info: Mar-31-2021 14:23:14: 	Login: user@mail.com|123
+info: Mar-31-2021 14:23:14: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:23:14: 	Authentication fail
+error: Mar-31-2021 14:23:14: 	jwt expired
+info: Mar-31-2021 14:24:14: 	Login: user@mail.com|123
+info: Mar-31-2021 14:24:14: 	Login: user@mail.com|123
+info: Mar-31-2021 14:24:14: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:24:14: 	Authentication fail
+error: Mar-31-2021 14:24:14: 	jwt expired
+info: Mar-31-2021 14:26:25: 	Login: user@mail.com|123
+info: Mar-31-2021 14:26:25: 	Login: user@mail.com|123
+info: Mar-31-2021 14:26:25: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:26:25: 	Authentication fail
+error: Mar-31-2021 14:26:25: 	jwt expired
+info: Mar-31-2021 14:26:34: 	Login: user@mail.com|123
+info: Mar-31-2021 14:26:34: 	Login: user@mail.com|123
+info: Mar-31-2021 14:26:34: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:26:34: 	Authentication fail
+error: Mar-31-2021 14:26:34: 	jwt expired
+info: Mar-31-2021 14:27:36: 	Login: user@mail.com|123
+info: Mar-31-2021 14:27:36: 	Login: user@mail.com|123
+info: Mar-31-2021 14:27:36: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:27:36: 	Authentication fail
+error: Mar-31-2021 14:27:36: 	jwt expired
+info: Mar-31-2021 14:27:58: 	Login: user@mail.com|123
+info: Mar-31-2021 14:27:58: 	Login: user@mail.com|123
+info: Mar-31-2021 14:27:58: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:27:58: 	Authentication fail
+error: Mar-31-2021 14:27:58: 	jwt expired
+info: Mar-31-2021 14:28:10: 	Login: user@mail.com|123
+info: Mar-31-2021 14:28:10: 	Login: user@mail.com|123
+info: Mar-31-2021 14:28:10: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:28:10: 	Authentication fail
+error: Mar-31-2021 14:28:10: 	jwt expired
+info: Mar-31-2021 14:30:08: 	Login: user@mail.com|123
+info: Mar-31-2021 14:30:08: 	Login: user@mail.com|123
+info: Mar-31-2021 14:30:08: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:30:08: 	Authentication fail
+error: Mar-31-2021 14:30:08: 	jwt expired
+info: Mar-31-2021 14:31:00: 	Login: user@mail.com|123
+info: Mar-31-2021 14:31:00: 	Login: user@mail.com|123
+info: Mar-31-2021 14:31:00: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:31:00: 	Authentication fail
+error: Mar-31-2021 14:31:00: 	jwt expired
+info: Mar-31-2021 14:32:09: 	Login: user@mail.com|123
+info: Mar-31-2021 14:32:09: 	Login: user@mail.com|123
+info: Mar-31-2021 14:32:09: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:32:09: 	Authentication fail
+error: Mar-31-2021 14:32:09: 	jwt expired
+info: Mar-31-2021 14:33:59: 	Login: user@mail.com|123
+info: Mar-31-2021 14:33:59: 	Login: user@mail.com|123
+info: Mar-31-2021 14:33:59: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:33:59: 	Authentication fail
+error: Mar-31-2021 14:33:59: 	jwt expired
+info: Mar-31-2021 14:34:20: 	Login: user@mail.com|123
+info: Mar-31-2021 14:34:20: 	Login: user@mail.com|123
+info: Mar-31-2021 14:34:20: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:34:20: 	Authentication fail
+error: Mar-31-2021 14:34:20: 	jwt expired
+info: Mar-31-2021 14:34:38: 	Login: user@mail.com|123
+info: Mar-31-2021 14:34:38: 	Login: user@mail.com|123
+info: Mar-31-2021 14:34:38: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:34:38: 	Authentication fail
+error: Mar-31-2021 14:34:38: 	jwt expired
+info: Mar-31-2021 14:38:44: 	Login: user@mail.com|123
+info: Mar-31-2021 14:38:44: 	Login: user@mail.com|123
+info: Mar-31-2021 14:38:44: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:38:44: 	Authentication fail
+error: Mar-31-2021 14:38:45: 	jwt expired
+info: Mar-31-2021 14:39:12: 	Login: user@mail.com|123
+info: Mar-31-2021 14:39:12: 	Login: user@mail.com|123
+info: Mar-31-2021 14:39:12: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:39:12: 	Authentication fail
+error: Mar-31-2021 14:39:12: 	jwt expired
+info: Mar-31-2021 14:40:07: 	Login: user@mail.com|123
+info: Mar-31-2021 14:40:07: 	Login: user@mail.com|123
+info: Mar-31-2021 14:40:07: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:40:07: 	Authentication fail
+error: Mar-31-2021 14:40:07: 	jwt expired
+info: Mar-31-2021 14:40:43: 	Login: user@mail.com|123
+info: Mar-31-2021 14:40:43: 	Login: user@mail.com|123
+info: Mar-31-2021 14:40:43: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:40:43: 	Authentication fail
+error: Mar-31-2021 14:40:43: 	jwt expired
+info: Mar-31-2021 14:41:01: 	Login: user@mail.com|123
+info: Mar-31-2021 14:41:01: 	Login: user@mail.com|123
+info: Mar-31-2021 14:41:01: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:41:01: 	Authentication fail
+error: Mar-31-2021 14:41:01: 	jwt expired
+info: Mar-31-2021 14:42:29: 	Login: user@mail.com|123
+info: Mar-31-2021 14:42:29: 	Login: user@mail.com|123
+info: Mar-31-2021 14:42:29: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:42:29: 	Authentication fail
+error: Mar-31-2021 14:42:29: 	jwt expired
+info: Mar-31-2021 14:46:11: 	Login: user@mail.com|123
+info: Mar-31-2021 14:46:11: 	Login: user@mail.com|123
+info: Mar-31-2021 14:46:11: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 14:46:11: 	Authentication fail
+error: Mar-31-2021 14:46:12: 	jwt expired
+info: Mar-31-2021 15:31:20: 	Login: user@mail.com|123
+info: Mar-31-2021 15:31:20: 	Login: user@mail.com|123
+info: Mar-31-2021 15:31:20: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:31:20: 	Authentication fail
+error: Mar-31-2021 15:31:20: 	jwt expired
+info: Mar-31-2021 15:31:46: 	Login: user@mail.com|123
+info: Mar-31-2021 15:31:46: 	Login: user@mail.com|123
+info: Mar-31-2021 15:31:46: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:31:46: 	Authentication fail
+error: Mar-31-2021 15:31:46: 	jwt expired
+info: Mar-31-2021 15:34:07: 	Login: user@mail.com|123
+info: Mar-31-2021 15:34:07: 	Login: user@mail.com|123
+info: Mar-31-2021 15:34:07: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:34:07: 	Authentication fail
+error: Mar-31-2021 15:34:07: 	jwt expired
+info: Mar-31-2021 15:34:57: 	Login: user@mail.com|123
+info: Mar-31-2021 15:34:57: 	Login: user@mail.com|123
+info: Mar-31-2021 15:34:57: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:34:57: 	Authentication fail
+error: Mar-31-2021 15:34:57: 	jwt expired
+info: Mar-31-2021 15:35:32: 	Login: user@mail.com|123
+info: Mar-31-2021 15:35:32: 	Login: user@mail.com|123
+info: Mar-31-2021 15:35:32: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:35:32: 	Authentication fail
+error: Mar-31-2021 15:35:32: 	jwt expired
+info: Mar-31-2021 15:38:23: 	Login: user@mail.com|123
+info: Mar-31-2021 15:38:23: 	Login: user@mail.com|123
+info: Mar-31-2021 15:38:23: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:38:23: 	Authentication fail
+error: Mar-31-2021 15:38:23: 	jwt expired
+info: Mar-31-2021 15:38:26: 	Users-service-app listening on port 3001
+info: Mar-31-2021 15:38:26: 	MongoDB Connection established
+info: Mar-31-2021 15:42:34: 	Login: user@mail.com|123
+info: Mar-31-2021 15:42:34: 	Login: user@mail.com|123
+info: Mar-31-2021 15:42:34: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:42:34: 	Authentication fail
+error: Mar-31-2021 15:42:34: 	jwt expired
+info: Mar-31-2021 15:42:37: 	Users-service-app listening on port 3001
+info: Mar-31-2021 15:42:37: 	MongoDB Connection established
+info: Mar-31-2021 15:42:59: 	Login: user@mail.com|123
+info: Mar-31-2021 15:42:59: 	Login: user@mail.com|123
+info: Mar-31-2021 15:42:59: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:42:59: 	Authentication fail
+error: Mar-31-2021 15:42:59: 	jwt expired
+info: Mar-31-2021 15:43:02: 	Users-service-app listening on port 3001
+info: Mar-31-2021 15:43:02: 	MongoDB Connection established
+info: Mar-31-2021 15:43:15: 	Login: user@mail.com|123
+info: Mar-31-2021 15:43:15: 	Login: user@mail.com|123
+info: Mar-31-2021 15:43:15: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:43:15: 	Authentication fail
+error: Mar-31-2021 15:43:15: 	jwt expired
+info: Mar-31-2021 15:43:17: 	Users-service-app listening on port 3001
+info: Mar-31-2021 15:43:17: 	MongoDB Connection established
+info: Mar-31-2021 15:43:39: 	Login: user@mail.com|123
+info: Mar-31-2021 15:43:39: 	Login: user@mail.com|123
+info: Mar-31-2021 15:43:39: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:43:39: 	Authentication fail
+error: Mar-31-2021 15:43:39: 	jwt expired
+info: Mar-31-2021 15:43:41: 	Users-service-app listening on port 3001
+info: Mar-31-2021 15:43:41: 	MongoDB Connection established
+info: Mar-31-2021 15:46:28: 	Login: user@mail.com|123
+info: Mar-31-2021 15:46:28: 	Login: user@mail.com|123
+info: Mar-31-2021 15:46:28: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:46:28: 	Authentication fail
+error: Mar-31-2021 15:46:28: 	jwt expired
+info: Mar-31-2021 15:46:33: 	Users-service-app listening on port 3001
+info: Mar-31-2021 15:46:33: 	MongoDB Connection established
+info: Mar-31-2021 15:47:34: 	Login: user@mail.com|123
+info: Mar-31-2021 15:47:34: 	Login: user@mail.com|123
+info: Mar-31-2021 15:47:34: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:47:34: 	Authentication fail
+error: Mar-31-2021 15:47:34: 	jwt expired
+info: Mar-31-2021 15:47:37: 	Users-service-app listening on port 3001
+info: Mar-31-2021 15:47:37: 	MongoDB Connection established
+info: Mar-31-2021 15:51:18: 	Login: user@mail.com|123
+info: Mar-31-2021 15:51:18: 	Login: user@mail.com|123
+info: Mar-31-2021 15:51:18: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 15:51:18: 	Authentication fail
+error: Mar-31-2021 15:51:18: 	jwt expired
+info: Mar-31-2021 15:51:21: 	Users-service-app listening on port 3001
+info: Mar-31-2021 15:51:21: 	MongoDB Connection established
+info: Mar-31-2021 16:02:46: 	Login: user@mail.com|123
+info: Mar-31-2021 16:02:46: 	Login: user@mail.com|123
+info: Mar-31-2021 16:02:46: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:02:46: 	Authentication fail
+error: Mar-31-2021 16:02:46: 	jwt expired
+info: Mar-31-2021 16:02:48: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:02:48: 	MongoDB Connection established
+info: Mar-31-2021 16:03:53: 	Login: user@mail.com|123
+info: Mar-31-2021 16:03:53: 	Login: user@mail.com|123
+info: Mar-31-2021 16:03:53: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:03:53: 	Authentication fail
+error: Mar-31-2021 16:03:53: 	jwt expired
+info: Mar-31-2021 16:03:56: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:03:56: 	Process create request for email:user3@mail.com
+info: Mar-31-2021 16:03:56: 	MongoDB Connection established
+info: Mar-31-2021 16:03:56: 	User user3@mail.com created successfully
+info: Mar-31-2021 16:04:34: 	Login: user@mail.com|123
+info: Mar-31-2021 16:04:34: 	Login: user@mail.com|123
+info: Mar-31-2021 16:04:34: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:04:34: 	Authentication fail
+error: Mar-31-2021 16:04:34: 	jwt expired
+info: Mar-31-2021 16:04:36: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:04:36: 	Process create request for email:user3@mail.com
+info: Mar-31-2021 16:04:36: 	MongoDB Connection established
+info: Mar-31-2021 16:04:36: 	User user3@mail.com created successfully
+info: Mar-31-2021 16:12:48: 	Login: user@mail.com|123
+info: Mar-31-2021 16:12:48: 	Login: user@mail.com|123
+info: Mar-31-2021 16:12:48: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:12:48: 	Authentication fail
+error: Mar-31-2021 16:12:48: 	jwt expired
+info: Mar-31-2021 16:12:50: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:12:50: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:12:50: 	MongoDB Connection established
+info: Mar-31-2021 16:12:50: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:13:21: 	Login: user@mail.com|123
+info: Mar-31-2021 16:13:21: 	Login: user@mail.com|123
+info: Mar-31-2021 16:13:21: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:13:21: 	Authentication fail
+error: Mar-31-2021 16:13:21: 	jwt expired
+info: Mar-31-2021 16:13:23: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:13:23: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:13:23: 	MongoDB Connection established
+error: Mar-31-2021 16:13:23: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:13:23: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:14:25: 	Login: user@mail.com|123
+info: Mar-31-2021 16:14:25: 	Login: user@mail.com|123
+info: Mar-31-2021 16:14:25: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:14:25: 	Authentication fail
+error: Mar-31-2021 16:14:25: 	jwt expired
+info: Mar-31-2021 16:14:26: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:14:26: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:14:26: 	MongoDB Connection established
+info: Mar-31-2021 16:14:26: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:15:55: 	Login: user@mail.com|123
+info: Mar-31-2021 16:15:55: 	Login: user@mail.com|123
+info: Mar-31-2021 16:15:55: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:15:55: 	Authentication fail
+error: Mar-31-2021 16:15:55: 	jwt expired
+info: Mar-31-2021 16:15:56: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:15:57: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:15:57: 	MongoDB Connection established
+info: Mar-31-2021 16:15:57: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:16:56: 	Login: user@mail.com|123
+info: Mar-31-2021 16:16:56: 	Login: user@mail.com|123
+info: Mar-31-2021 16:16:56: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:16:56: 	Authentication fail
+error: Mar-31-2021 16:16:56: 	jwt expired
+info: Mar-31-2021 16:16:58: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:16:58: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:16:58: 	MongoDB Connection established
+info: Mar-31-2021 16:16:58: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:17:57: 	Login: user@mail.com|123
+info: Mar-31-2021 16:17:57: 	Login: user@mail.com|123
+info: Mar-31-2021 16:17:57: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:17:57: 	Authentication fail
+error: Mar-31-2021 16:17:57: 	jwt expired
+info: Mar-31-2021 16:17:59: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:17:59: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:17:59: 	MongoDB Connection established
+error: Mar-31-2021 16:17:59: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:17:59: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:18:14: 	Login: user@mail.com|123
+info: Mar-31-2021 16:18:14: 	Login: user@mail.com|123
+info: Mar-31-2021 16:18:14: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:18:14: 	Authentication fail
+error: Mar-31-2021 16:18:14: 	jwt expired
+info: Mar-31-2021 16:18:16: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:18:16: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:18:16: 	MongoDB Connection established
+error: Mar-31-2021 16:18:16: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:18:16: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:18:16: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:18:16: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:18:16: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:18:48: 	Login: user@mail.com|123
+info: Mar-31-2021 16:18:48: 	Login: user@mail.com|123
+info: Mar-31-2021 16:18:48: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:18:48: 	Authentication fail
+error: Mar-31-2021 16:18:48: 	jwt expired
+info: Mar-31-2021 16:18:50: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:18:50: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:18:50: 	MongoDB Connection established
+info: Mar-31-2021 16:18:50: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:18:50: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:18:50: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:18:50: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:20:35: 	Login: user@mail.com|123
+info: Mar-31-2021 16:20:35: 	Login: user@mail.com|123
+info: Mar-31-2021 16:20:36: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:20:36: 	Authentication fail
+error: Mar-31-2021 16:20:36: 	jwt expired
+info: Mar-31-2021 16:20:38: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:20:38: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:20:38: 	MongoDB Connection established
+error: Mar-31-2021 16:20:38: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:20:38: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:20:38: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:20:38: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:20:38: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:20:38: 	User: test-user-1@mail.com data found
+info: Mar-31-2021 16:20:55: 	Login: user@mail.com|123
+info: Mar-31-2021 16:20:55: 	Login: user@mail.com|123
+info: Mar-31-2021 16:20:55: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:20:55: 	Authentication fail
+error: Mar-31-2021 16:20:55: 	jwt expired
+info: Mar-31-2021 16:20:57: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:20:57: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:20:57: 	MongoDB Connection established
+info: Mar-31-2021 16:20:57: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:20:57: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:20:57: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:20:57: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:20:57: 	User: test-user-1@mail.com data found
+info: Mar-31-2021 16:21:32: 	Login: user@mail.com|123
+info: Mar-31-2021 16:21:32: 	Login: user@mail.com|123
+info: Mar-31-2021 16:21:32: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:21:32: 	Authentication fail
+error: Mar-31-2021 16:21:32: 	jwt expired
+info: Mar-31-2021 16:21:34: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:21:34: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:21:34: 	MongoDB Connection established
+error: Mar-31-2021 16:21:34: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:21:34: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:21:34: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:21:34: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:21:34: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:21:34: 	User: test-user-1@mail.com data found
+info: Mar-31-2021 16:21:34: 	User test-user-1@mail.com deleted successfully
+info: Mar-31-2021 16:22:08: 	Login: user@mail.com|123
+info: Mar-31-2021 16:22:08: 	Login: user@mail.com|123
+info: Mar-31-2021 16:22:08: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:22:08: 	Authentication fail
+error: Mar-31-2021 16:22:08: 	jwt expired
+info: Mar-31-2021 16:22:10: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:22:10: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:22:10: 	MongoDB Connection established
+info: Mar-31-2021 16:22:10: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:22:10: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:22:10: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:22:10: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:22:10: 	User: test-user-1@mail.com data found
+info: Mar-31-2021 16:22:10: 	User test-user-1@mail.com deleted successfully
+info: Mar-31-2021 16:23:08: 	Login: user@mail.com|123
+info: Mar-31-2021 16:23:08: 	Login: user@mail.com|123
+info: Mar-31-2021 16:23:08: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:23:08: 	Authentication fail
+error: Mar-31-2021 16:23:08: 	jwt expired
+info: Mar-31-2021 16:23:10: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:23:10: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:23:10: 	MongoDB Connection established
+info: Mar-31-2021 16:23:10: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:23:10: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:23:10: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:23:10: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:23:10: 	User: test-user-1@mail.com data found
+info: Mar-31-2021 16:23:10: 	User test-user-1@mail.com deleted successfully
+info: Mar-31-2021 16:23:56: 	Login: user@mail.com|123
+info: Mar-31-2021 16:23:56: 	Login: user@mail.com|123
+info: Mar-31-2021 16:23:56: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:23:56: 	Authentication fail
+error: Mar-31-2021 16:23:56: 	jwt expired
+info: Mar-31-2021 16:23:58: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:23:58: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:23:58: 	MongoDB Connection established
+info: Mar-31-2021 16:23:58: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:23:58: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:23:58: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:23:58: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:23:58: 	User: test-user-1@mail.com data found
+info: Mar-31-2021 16:23:58: 	User test-user-1@mail.com deleted successfully
+info: Mar-31-2021 16:25:27: 	Login: user@mail.com|123
+info: Mar-31-2021 16:25:27: 	Login: user@mail.com|123
+info: Mar-31-2021 16:25:27: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:25:27: 	Authentication fail
+error: Mar-31-2021 16:25:27: 	jwt expired
+info: Mar-31-2021 16:25:28: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:25:28: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:25:28: 	MongoDB Connection established
+info: Mar-31-2021 16:25:28: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:25:28: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:25:29: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:25:29: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:25:29: 	User: test-user-1@mail.com data found
+error: Mar-31-2021 16:25:29: 	User test-user-2@mail.com not found
+error: Mar-31-2021 16:25:29: 	User not found
+info: Mar-31-2021 16:25:29: 	User test-user-1@mail.com deleted successfully
+info: Mar-31-2021 16:27:47: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:27:47: 	MongoDB Connection established
+info: Mar-31-2021 16:41:55: 	Login: user@mail.com|123
+info: Mar-31-2021 16:41:55: 	Login: user@mail.com|123
+info: Mar-31-2021 16:41:55: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:41:55: 	Authentication fail
+error: Mar-31-2021 16:41:55: 	jwt expired
+info: Mar-31-2021 16:41:58: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:41:58: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:41:58: 	MongoDB Connection established
+info: Mar-31-2021 16:41:58: 	User test-user-1@mail.com created successfully
+error: Mar-31-2021 16:41:58: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:41:58: 	E11000 duplicate key error collection: bigCompany.users index: email_1 dup key: { email: "test-user-1@mail.com" }
+info: Mar-31-2021 16:41:58: 	User: test-user-1@mail.com data found
+error: Mar-31-2021 16:41:58: 	User test-user-2@mail.com not found
+error: Mar-31-2021 16:41:58: 	User not found
+info: Mar-31-2021 16:41:58: 	User test-user-1@mail.com deleted successfully
+info: Mar-31-2021 16:42:28: 	Login: user@mail.com|123
+info: Mar-31-2021 16:42:28: 	Login: user@mail.com|123
+info: Mar-31-2021 16:42:28: 	Valid token email: user@mail.com, userId: 123 
+error: Mar-31-2021 16:42:28: 	Authentication fail
+error: Mar-31-2021 16:42:28: 	jwt expired
+info: Mar-31-2021 16:42:30: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:42:30: 	Process create request for email:test-user-1@mail.com
+info: Mar-31-2021 16:42:30: 	MongoDB Connection established
+info: Mar-31-2021 16:42:30: 	User test-user-1@mail.com created successfully
+info: Mar-31-2021 16:42:30: 	Process create request for email:test-user-1@mail.com
+error: Mar-31-2021 16:42:30: 	User test-user-1@mail.com creation failed
+error: Mar-31-2021 16:42:30: 	User validation failed: email: Error, expected `email` to be unique. Value: `test-user-1@mail.com`
+info: Mar-31-2021 16:42:30: 	User: test-user-1@mail.com data found
+error: Mar-31-2021 16:42:30: 	User test-user-2@mail.com not found
+error: Mar-31-2021 16:42:30: 	User not found
+info: Mar-31-2021 16:42:30: 	User test-user-1@mail.com deleted successfully
+info: Mar-31-2021 16:42:40: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:42:40: 	MongoDB Connection established
+info: Mar-31-2021 16:42:48: 	Users-service-app listening on port 3001
+info: Mar-31-2021 16:42:48: 	MongoDB Connection established
+info: Mar-31-2021 17:17:18: 	User: user@mail.com data found
+info: Mar-31-2021 17:17:18: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Mar-31-2021 17:17:18: 	User: user@mail.com correct password
+info: Mar-31-2021 17:18:25: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 17:20:09: 	Valid token email: user@mail.com, userId: 6062b0060ee6df3cfd281208 
+info: Mar-31-2021 17:20:35: 	Process create request for email:test-23123@aksjdlks.com
+info: Mar-31-2021 17:20:35: 	User test-23123@aksjdlks.com created successfully
+info: Mar-31-2021 17:21:24: 	User: test-23123@aksjdlks.com data found
+info: Mar-31-2021 17:21:25: 	Login: test-23123@aksjdlks.com|606503c3648b43542663a814
+info: Mar-31-2021 17:21:25: 	User: test-23123@aksjdlks.com correct password
+info: Apr-07-2021 15:58:23: 	Users-service-app listening on port 3001
+error: Apr-07-2021 15:58:23: 	MongoDB Connection failed
+error: Apr-07-2021 15:58:23: 	undefined
+info: Apr-07-2021 16:00:30: 	Users-service-app listening on port 3001
+info: Apr-07-2021 16:00:30: 	MongoDB Connection established
+info: Apr-07-2021 16:06:33: 	Process create request for email:cirstobal@tetet.com
+info: Apr-07-2021 16:06:33: 	User cirstobal@tetet.com created successfully
+info: Apr-07-2021 16:06:40: 	User: cirstobal@tetet.com data found
+info: Apr-07-2021 16:06:41: 	Login: cirstobal@tetet.com|606e1ed924861ccca98366d8
+info: Apr-07-2021 16:06:41: 	User: cirstobal@tetet.com correct password
+info: Apr-07-2021 16:19:28: 	User: user@mail.com data found
+error: Apr-07-2021 16:19:28: 	Invalid password for user@mail.com
+error: Apr-07-2021 16:19:28: 	Authentication fail
+info: Apr-07-2021 16:19:33: 	Process create request for email:cirstobal@tetet.com
+error: Apr-07-2021 16:19:33: 	User cirstobal@tetet.com creation failed
+error: Apr-07-2021 16:19:33: 	User validation failed: email: Error, expected `email` to be unique. Value: `cirstobal@tetet.com`
+info: Apr-07-2021 16:19:43: 	User: user@mail.com data found
+info: Apr-07-2021 16:19:43: 	Login: user@mail.com|6062b0060ee6df3cfd281208
+info: Apr-07-2021 16:19:43: 	User: user@mail.com correct password

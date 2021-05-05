@@ -1,0 +1,222 @@
+{
+	"info": {
+		"_postman_id": "5384016b-7f13-4037-a937-4a984c7695f8",
+		"name": "nodejs-final-jmg-CarParts",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "create",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "title",
+							"value": "fancy wheel",
+							"type": "text"
+						},
+						{
+							"key": "content",
+							"value": "wheel some type",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/Users/jorge.melgoza/Downloads/wheel1.jpg"
+						}
+					],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/v1/part",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"part"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get by text",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/v1/part",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"part"
+					],
+					"query": [
+						{
+							"key": "searchText",
+							"value": "12356",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "60639ecb6bbc3079f58fba1f",
+							"type": "text"
+						},
+						{
+							"key": "title",
+							"value": "not so fancy wheel",
+							"type": "text"
+						},
+						{
+							"key": "content",
+							"value": "wheel some type",
+							"type": "text"
+						},
+						{
+							"key": "partNumber",
+							"value": "445566",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/Users/jorge.melgoza/Downloads/wheel1.jpg",
+							"disabled": true
+						},
+						{
+							"key": "imagePath",
+							"value": "wheel1.jpg-1617141539003.jpg",
+							"type": "text"
+						}
+					],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/v1/part",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"part"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "title",
+							"value": "fancy wheel",
+							"type": "text"
+						},
+						{
+							"key": "content",
+							"value": "wheel some type",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/Users/jorge.melgoza/Downloads/wheel1.jpg"
+						}
+					],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/v1/part/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"part",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

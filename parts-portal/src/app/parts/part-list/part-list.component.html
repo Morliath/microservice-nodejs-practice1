@@ -1,0 +1,19 @@
+<mat-spinner *ngIf="isLoading"></mat-spinner>
+
+<mat-accordion multi="true" *ngIf="parts.length>0 && !isLoading">
+  <mat-expansion-panel *ngFor="let part of parts">
+    <mat-expansion-panel-header>
+      {{part.title}} - {{part.partNumber}}
+    </mat-expansion-panel-header>
+    <div class="image-preview" *ngIf="part.imagePath">
+      <img src="{{BACKEND_URL + '/' + part.imagePath}}" [alt]="part.title">
+    </div>
+    <p>{{part.content}}</p>
+    <mat-action-row *ngIf="authenticated && getUserId()== part.createdBy">
+      <a mat-button color="primary" [routerLink]="['/edit', part.id]">Edit</a>
+      <button mat-button color="warn" (click)="onDelete(part.id)">Delete</button>
+    </mat-action-row>
+  </mat-expansion-panel>
+</mat-accordion>
+
+<p class="info-text mat-body-1" *ngIf="parts.length <=0 && !isLoading">No parts available yet</p>

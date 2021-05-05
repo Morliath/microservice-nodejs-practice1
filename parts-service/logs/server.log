@@ -1,0 +1,684 @@
+info: Mar-30-2021 10:18:44: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:18:44: 	MongoDB Connection established
+info: Mar-30-2021 10:20:25: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:20:25: 	MongoDB Connection established
+info: Mar-30-2021 10:20:58: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:20:58: 	MongoDB Connection established
+info: Mar-30-2021 10:21:50: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:21:50: 	MongoDB Connection established
+info: Mar-30-2021 10:23:46: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:23:46: 	MongoDB Connection established
+info: Mar-30-2021 10:24:24: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:24:24: 	MongoDB Connection established
+info: Mar-30-2021 10:25:18: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:25:18: 	MongoDB Connection established
+info: Mar-30-2021 10:26:38: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:26:39: 	MongoDB Connection established
+info: Mar-30-2021 10:30:13: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:30:13: 	MongoDB Connection established
+info: Mar-30-2021 10:31:54: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:31:54: 	MongoDB Connection established
+info: Mar-30-2021 10:33:06: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:33:06: 	MongoDB Connection established
+info: Mar-30-2021 10:37:01: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:37:01: 	MongoDB Connection established
+info: Mar-30-2021 10:39:02: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:39:02: 	MongoDB Connection established
+info: Mar-30-2021 10:42:06: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:42:06: 	MongoDB Connection established
+info: Mar-30-2021 10:45:47: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:45:47: 	MongoDB Connection established
+info: Mar-30-2021 10:46:31: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:46:31: 	MongoDB Connection established
+info: Mar-30-2021 10:47:25: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:47:25: 	MongoDB Connection established
+info: Mar-30-2021 10:48:42: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:48:42: 	MongoDB Connection established
+info: Mar-30-2021 10:49:35: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:49:35: 	MongoDB Connection established
+info: Mar-30-2021 10:51:45: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:51:45: 	MongoDB Connection established
+info: Mar-30-2021 10:53:01: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:53:01: 	MongoDB Connection established
+error: Mar-30-2021 10:53:27: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 10:56:40: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 10:56:40: 	MongoDB Connection established
+info: Mar-30-2021 10:56:42: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjMyMzQsImV4cCI6MTYxNzEyMzUzNH0.LG3tDIdE9ejBP8DH0aD2l7pNHus2RdEI0E-gq9ygkqs
+info: Mar-30-2021 10:56:42: 	Ùser verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 11:00:24: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 11:00:24: 	MongoDB Connection established
+info: Mar-30-2021 11:00:27: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjMyMzQsImV4cCI6MTYxNzEyMzUzNH0.LG3tDIdE9ejBP8DH0aD2l7pNHus2RdEI0E-gq9ygkqs
+error: Mar-30-2021 11:00:27: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 11:01:11: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjMyMzQsImV4cCI6MTYxNzEyMzUzNH0.LG3tDIdE9ejBP8DH0aD2l7pNHus2RdEI0E-gq9ygkqs
+error: Mar-30-2021 11:01:11: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 11:01:19: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjM2NjAsImV4cCI6MTYxNzEyNDI2MH0.QWf96t_-tchp2ktliBZjdqe83VJasS7Kzs8bDxDhElo
+info: Mar-30-2021 11:01:19: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 11:01:46: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 11:01:46: 	MongoDB Connection established
+info: Mar-30-2021 11:01:48: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjM2NjAsImV4cCI6MTYxNzEyNDI2MH0.QWf96t_-tchp2ktliBZjdqe83VJasS7Kzs8bDxDhElo
+info: Mar-30-2021 11:01:48: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 12:15:04: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 12:15:04: 	MongoDB Connection established
+info: Mar-30-2021 12:15:56: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjgxNDAsImV4cCI6MTYxNzEyODc0MH0.j-eDS4MQAPo2MhSMnrpZT2QRcwbKa2Oc1KYc1DSi1co
+info: Mar-30-2021 12:15:56: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 12:22:20: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjgxNDAsImV4cCI6MTYxNzEyODc0MH0.j-eDS4MQAPo2MhSMnrpZT2QRcwbKa2Oc1KYc1DSi1co
+info: Mar-30-2021 12:22:20: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:39:24: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjgxNDAsImV4cCI6MTYxNzEyODc0MH0.j-eDS4MQAPo2MhSMnrpZT2QRcwbKa2Oc1KYc1DSi1co
+error: Mar-30-2021 15:39:24: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 15:39:28: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxMjgxNDAsImV4cCI6MTYxNzEyODc0MH0.j-eDS4MQAPo2MhSMnrpZT2QRcwbKa2Oc1KYc1DSi1co
+error: Mar-30-2021 15:39:28: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 15:39:35: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDAzNDUsImV4cCI6MTYxNzE0MDk0NX0.8xh86Tqj-qeWhcEzFzydE6YfSJwhgG_wpqNF5zbMFrU
+info: Mar-30-2021 15:39:35: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:50:59: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 15:50:59: 	MongoDB Connection established
+info: Mar-30-2021 15:51:28: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDAzNDUsImV4cCI6MTYxNzE0MDk0NX0.8xh86Tqj-qeWhcEzFzydE6YfSJwhgG_wpqNF5zbMFrU
+error: Mar-30-2021 15:51:28: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 15:51:53: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDEwOTMsImV4cCI6MTYxNzE0MTY5M30.dII_i9NRKVzeqwaFZREGsOOOG8HETPYZWzlBgb1TOW0
+info: Mar-30-2021 15:51:53: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:51:53: 	Create new part request: title:fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-30-2021 15:51:53: 	Successfully created ID: 60639d7917ceaa7347bcc957
+error: Mar-30-2021 15:51:53: 	createdPost is not defined
+info: Mar-30-2021 15:52:34: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 15:52:34: 	MongoDB Connection established
+info: Mar-30-2021 15:52:37: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDEwOTMsImV4cCI6MTYxNzE0MTY5M30.dII_i9NRKVzeqwaFZREGsOOOG8HETPYZWzlBgb1TOW0
+info: Mar-30-2021 15:52:37: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:52:37: 	Create new part request: title:fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-30-2021 15:52:37: 	Successfully created ID: 60639da5b6f5f274b36fa41d
+info: Mar-30-2021 15:56:41: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 15:56:41: 	MongoDB Connection established
+info: Mar-30-2021 15:57:27: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 15:57:27: 	MongoDB Connection established
+info: Mar-30-2021 15:57:31: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDEwOTMsImV4cCI6MTYxNzE0MTY5M30.dII_i9NRKVzeqwaFZREGsOOOG8HETPYZWzlBgb1TOW0
+info: Mar-30-2021 15:57:31: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:57:31: 	Create new part request: title:fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-30-2021 15:57:31: 	Successfully created ID: 60639ecb6bbc3079f58fba1f
+info: Mar-30-2021 15:57:50: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDEwOTMsImV4cCI6MTYxNzE0MTY5M30.dII_i9NRKVzeqwaFZREGsOOOG8HETPYZWzlBgb1TOW0
+info: Mar-30-2021 15:57:50: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:57:50: 	Create new part request: title:fancy wheel, content:wheel some type by user:user@mail.com
+error: Mar-30-2021 15:57:50: 	Part validation failed: partNumber: Error, expected `partNumber` to be unique. Value: `123`
+info: Mar-30-2021 15:58:48: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 15:58:48: 	MongoDB Connection established
+info: Mar-30-2021 15:58:51: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDEwOTMsImV4cCI6MTYxNzE0MTY5M30.dII_i9NRKVzeqwaFZREGsOOOG8HETPYZWzlBgb1TOW0
+info: Mar-30-2021 15:58:51: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:58:51: 	Create new part request: title:fancy wheel, content:wheel some type by user:user@mail.com
+error: Mar-30-2021 15:58:51: 	Part validation failed: partNumber: Error, expected `partNumber` to be unique. Value: `123`
+info: Mar-30-2021 15:58:58: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDEwOTMsImV4cCI6MTYxNzE0MTY5M30.dII_i9NRKVzeqwaFZREGsOOOG8HETPYZWzlBgb1TOW0
+info: Mar-30-2021 15:58:59: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 15:58:59: 	Create new part request: title:fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-30-2021 15:58:59: 	Successfully created ID: 60639f23df075e7af6299bf7
+info: Mar-30-2021 16:54:52: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 16:54:52: 	MongoDB Connection established
+info: Mar-30-2021 16:54:58: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDQ3NjgsImV4cCI6MTYxNzE0NTM2OH0._K443JcKNqoF2NvzpUHSNgRQGvDVSMqY2jLkusOJ6xg
+info: Mar-30-2021 16:54:58: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 16:59:04: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 16:59:04: 	MongoDB Connection established
+info: Mar-30-2021 16:59:08: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDQ3NjgsImV4cCI6MTYxNzE0NTM2OH0._K443JcKNqoF2NvzpUHSNgRQGvDVSMqY2jLkusOJ6xg
+info: Mar-30-2021 16:59:08: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 16:59:27: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 16:59:27: 	MongoDB Connection established
+info: Mar-30-2021 16:59:30: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDQ3NjgsImV4cCI6MTYxNzE0NTM2OH0._K443JcKNqoF2NvzpUHSNgRQGvDVSMqY2jLkusOJ6xg
+info: Mar-30-2021 16:59:30: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 16:59:57: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDQ3NjgsImV4cCI6MTYxNzE0NTM2OH0._K443JcKNqoF2NvzpUHSNgRQGvDVSMqY2jLkusOJ6xg
+info: Mar-30-2021 16:59:57: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:00:08: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDQ3NjgsImV4cCI6MTYxNzE0NTM2OH0._K443JcKNqoF2NvzpUHSNgRQGvDVSMqY2jLkusOJ6xg
+info: Mar-30-2021 17:00:08: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:00:26: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDQ3NjgsImV4cCI6MTYxNzE0NTM2OH0._K443JcKNqoF2NvzpUHSNgRQGvDVSMqY2jLkusOJ6xg
+info: Mar-30-2021 17:00:26: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:00:36: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDQ3NjgsImV4cCI6MTYxNzE0NTM2OH0._K443JcKNqoF2NvzpUHSNgRQGvDVSMqY2jLkusOJ6xg
+info: Mar-30-2021 17:00:36: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:05:52: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 17:05:52: 	MongoDB Connection established
+info: Mar-30-2021 17:06:23: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDQ3NjgsImV4cCI6MTYxNzE0NTM2OH0._K443JcKNqoF2NvzpUHSNgRQGvDVSMqY2jLkusOJ6xg
+error: Mar-30-2021 17:06:23: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 17:06:47: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDU1ODgsImV4cCI6MTYxNzE0NjE4OH0.3y3XcjuXgCXE834a7woeTS_nCh0DTL_2MdleCgMROLU
+info: Mar-30-2021 17:06:47: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:08:55: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 17:08:55: 	MongoDB Connection established
+info: Mar-30-2021 17:09:08: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDU1ODgsImV4cCI6MTYxNzE0NjE4OH0.3y3XcjuXgCXE834a7woeTS_nCh0DTL_2MdleCgMROLU
+info: Mar-30-2021 17:09:08: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:09:08: 	Search request by battery
+info: Mar-30-2021 17:09:08: 	0 entries found
+info: Mar-30-2021 17:12:12: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 17:12:12: 	MongoDB Connection established
+info: Mar-30-2021 17:12:18: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDU1ODgsImV4cCI6MTYxNzE0NjE4OH0.3y3XcjuXgCXE834a7woeTS_nCh0DTL_2MdleCgMROLU
+info: Mar-30-2021 17:12:18: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:12:18: 	Search request by undefined
+info: Mar-30-2021 17:12:18: 	2 entries found
+info: Mar-30-2021 17:12:25: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDU1ODgsImV4cCI6MTYxNzE0NjE4OH0.3y3XcjuXgCXE834a7woeTS_nCh0DTL_2MdleCgMROLU
+info: Mar-30-2021 17:12:25: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:12:25: 	Search request by battery
+info: Mar-30-2021 17:12:25: 	0 entries found
+info: Mar-30-2021 17:12:30: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDU1ODgsImV4cCI6MTYxNzE0NjE4OH0.3y3XcjuXgCXE834a7woeTS_nCh0DTL_2MdleCgMROLU
+info: Mar-30-2021 17:12:30: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:12:30: 	Search request by 12356
+info: Mar-30-2021 17:12:30: 	1 entries found
+info: Mar-30-2021 17:12:35: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDU1ODgsImV4cCI6MTYxNzE0NjE4OH0.3y3XcjuXgCXE834a7woeTS_nCh0DTL_2MdleCgMROLU
+info: Mar-30-2021 17:12:35: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 17:12:35: 	Search request by undefined
+info: Mar-30-2021 17:12:35: 	2 entries found
+info: Mar-30-2021 23:15:23: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNDU1ODgsImV4cCI6MTYxNzE0NjE4OH0.3y3XcjuXgCXE834a7woeTS_nCh0DTL_2MdleCgMROLU
+error: Mar-30-2021 23:15:23: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 23:42:51: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 23:42:51: 	MongoDB Connection established
+info: Mar-30-2021 23:43:43: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+info: Mar-30-2021 23:43:43: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:43:43: 	Create new part request: title:battery 1, content:a batery by user:user@mail.com
+info: Mar-30-2021 23:43:44: 	Successfully created ID: 60640c0f355b2246177b0cb2
+info: Mar-30-2021 23:43:56: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+info: Mar-30-2021 23:43:56: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:43:56: 	Search request by undefined
+info: Mar-30-2021 23:43:56: 	3 entries found
+info: Mar-30-2021 23:46:09: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+info: Mar-30-2021 23:46:09: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:46:09: 	Update part request: id:undefined, title:undefined, content:undefined by user:user@mail.com
+info: Mar-30-2021 23:48:21: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+info: Mar-30-2021 23:48:21: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:48:21: 	Update part request: id:undefined, title:undefined, content:undefined by user:user@mail.com
+info: Mar-30-2021 23:48:27: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 23:48:27: 	MongoDB Connection established
+info: Mar-30-2021 23:48:32: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+info: Mar-30-2021 23:48:32: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:48:32: 	Update part request: id:undefined, title:undefined, content:undefined by user:user@mail.com
+info: Mar-30-2021 23:48:46: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+info: Mar-30-2021 23:48:46: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:48:46: 	Update part request: id:undefined, title:undefined, content:undefined by user:user@mail.com
+info: Mar-30-2021 23:49:48: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+info: Mar-30-2021 23:49:48: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:49:48: 	Update part request: id:undefined, title:undefined, content:undefined by user:user@mail.com
+info: Mar-30-2021 23:50:34: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 23:50:34: 	MongoDB Connection established
+info: Mar-30-2021 23:50:52: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+info: Mar-30-2021 23:50:52: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:50:52: 	Update part request: id:undefined, title:undefined, content:undefined by user:user@mail.com
+info: Mar-30-2021 23:57:20: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 23:57:20: 	MongoDB Connection established
+info: Mar-30-2021 23:57:30: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNjkzNzcsImV4cCI6MTYxNzE2OTk3N30.2e45o5Fy8rJwz-I1m4f7brE0UbcLsn2h_7TEurTmHJ0
+error: Mar-30-2021 23:57:30: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-30-2021 23:57:55: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzAyNTgsImV4cCI6MTYxNzE3MDg1OH0._ngqM926VEYRT7gaUnG83IwrfbChsnnGEf70rnX9_9A
+info: Mar-30-2021 23:57:55: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:57:55: 	Update part request: id:undefined, title:undefined, content:undefined by user:user@mail.com
+info: Mar-30-2021 23:58:34: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzAyNTgsImV4cCI6MTYxNzE3MDg1OH0._ngqM926VEYRT7gaUnG83IwrfbChsnnGEf70rnX9_9A
+info: Mar-30-2021 23:58:34: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:58:34: 	Create new part request: title:battery 2, content:another batery by user:user@mail.com
+info: Mar-30-2021 23:58:35: 	Successfully created ID: 60640f8aa3c72552d1844341
+info: Mar-30-2021 23:59:10: 	Parts-service-app listening on port 3000
+info: Mar-30-2021 23:59:11: 	MongoDB Connection established
+info: Mar-30-2021 23:59:29: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzAyNTgsImV4cCI6MTYxNzE3MDg1OH0._ngqM926VEYRT7gaUnG83IwrfbChsnnGEf70rnX9_9A
+info: Mar-30-2021 23:59:29: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-30-2021 23:59:29: 	Update part request: id:60639ecb6bbc3079f58fba1f, title:not so fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-30-2021 23:59:29: 	Update part id:60639ecb6bbc3079f58fba1f
+error: Mar-30-2021 23:59:29: 	pasavedDocrt is not defined
+info: Mar-31-2021 00:00:24: 	Parts-service-app listening on port 3000
+info: Mar-31-2021 00:00:24: 	MongoDB Connection established
+info: Mar-31-2021 00:01:22: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzAyNTgsImV4cCI6MTYxNzE3MDg1OH0._ngqM926VEYRT7gaUnG83IwrfbChsnnGEf70rnX9_9A
+info: Mar-31-2021 00:01:22: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:01:22: 	Update part request: id:60639ecb6bbc3079f58fba1f, title:not so fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-31-2021 00:01:23: 	Update part id:60639ecb6bbc3079f58fba1f
+info: Mar-31-2021 00:04:15: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzAyNTgsImV4cCI6MTYxNzE3MDg1OH0._ngqM926VEYRT7gaUnG83IwrfbChsnnGEf70rnX9_9A
+info: Mar-31-2021 00:04:15: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:04:15: 	Update part request: id:60639ecb6bbc3079f58fba1f, title:not so fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-31-2021 00:04:15: 	Update part id:60639ecb6bbc3079f58fba1f
+info: Mar-31-2021 00:09:50: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzAyNTgsImV4cCI6MTYxNzE3MDg1OH0._ngqM926VEYRT7gaUnG83IwrfbChsnnGEf70rnX9_9A
+error: Mar-31-2021 00:09:50: 	Authentication failed, TokenExpiredError: jwt expired
+info: Mar-31-2021 00:10:15: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:10:15: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:10:15: 	Update part request: id:60639ecb6bbc3079f58fba1f, title:not so fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-31-2021 00:10:15: 	Update part id:60639ecb6bbc3079f58fba1f
+info: Mar-31-2021 00:10:33: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:10:33: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:10:33: 	Update part request: id:60639ecb6bbc3079f58fba1f, title:not so fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-31-2021 00:10:33: 	Update part id:60639ecb6bbc3079f58fba1f
+info: Mar-31-2021 00:11:34: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:11:34: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:11:34: 	Search request by undefined
+info: Mar-31-2021 00:11:34: 	4 entries found
+info: Mar-31-2021 00:11:42: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:11:42: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:11:42: 	Delete part request: id:60639ecb6bbc3079f58fba1f
+info: Mar-31-2021 00:12:35: 	Parts-service-app listening on port 3000
+info: Mar-31-2021 00:12:35: 	MongoDB Connection established
+info: Mar-31-2021 00:12:38: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:12:38: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:12:38: 	Delete part request: id:60639ecb6bbc3079f58fba1f
+info: Mar-31-2021 00:12:38: 	Delete result: 
+error: Mar-31-2021 00:12:38: 	Delete process failed
+info: Mar-31-2021 00:13:06: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:13:06: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:13:06: 	Delete part request: id:60640f8aa3c72552d1844341
+info: Mar-31-2021 00:13:06: 	Delete result: 
+info: Mar-31-2021 00:15:06: 	Parts-service-app listening on port 3000
+info: Mar-31-2021 00:15:06: 	MongoDB Connection established
+info: Mar-31-2021 00:15:11: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:15:11: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:15:11: 	Create new part request: title:battery 2, content:another batery by user:user@mail.com
+info: Mar-31-2021 00:15:11: 	Successfully created ID: 6064136f73f474633a1d6611
+info: Mar-31-2021 00:15:15: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:15:15: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:15:15: 	Search request by undefined
+info: Mar-31-2021 00:15:15: 	3 entries found
+info: Mar-31-2021 00:15:25: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:15:25: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:15:25: 	Delete part request: id:6064136f73f474633a1d6611
+info: Mar-31-2021 00:15:25: 	Delete result: 
+info: Mar-31-2021 00:17:15: 	Parts-service-app listening on port 3000
+info: Mar-31-2021 00:17:15: 	MongoDB Connection established
+info: Mar-31-2021 00:18:14: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:18:14: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:18:14: 	Create new part request: title:battery 2, content:another batery by user:user@mail.com
+info: Mar-31-2021 00:18:14: 	Successfully created ID: 606414264883256548a14749
+info: Mar-31-2021 00:18:18: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:18:18: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:18:18: 	Search request by undefined
+info: Mar-31-2021 00:18:18: 	3 entries found
+info: Mar-31-2021 00:18:27: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzA5OTksImV4cCI6MTYxNzE3MTU5OX0.ZoPgB_F1Bzvb7tPQFUSwxRH7lYiJFtHYYfFH66jTk_0
+info: Mar-31-2021 00:18:27: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 00:18:27: 	Delete part request: id:606414264883256548a14749
+info: Mar-31-2021 00:18:27: 	Delete result: n: 1, ok: 1, deletedCount: 1
+info: Mar-31-2021 00:51:44: 	Parts-service-app listening on port 3000
+info: Mar-31-2021 00:51:44: 	MongoDB Connection established
+info: Mar-31-2021 00:55:04: 	Parts-service-app listening on port 3000
+info: Mar-31-2021 00:55:04: 	MongoDB Connection established
+info: Mar-31-2021 01:00:45: 	Search request by undefined
+info: Mar-31-2021 01:00:45: 	2 entries found
+info: Mar-31-2021 01:01:25: 	Search request by undefined
+info: Mar-31-2021 01:01:25: 	2 entries found
+info: Mar-31-2021 01:01:37: 	Search request by undefined
+info: Mar-31-2021 01:01:37: 	2 entries found
+info: Mar-31-2021 01:02:13: 	Search request by undefined
+info: Mar-31-2021 01:02:13: 	2 entries found
+info: Mar-31-2021 01:02:53: 	Search request by undefined
+info: Mar-31-2021 01:02:53: 	2 entries found
+info: Mar-31-2021 01:03:30: 	Search request by undefined
+info: Mar-31-2021 01:03:30: 	2 entries found
+info: Mar-31-2021 01:06:05: 	Search request by undefined
+info: Mar-31-2021 01:06:05: 	2 entries found
+info: Mar-31-2021 01:07:15: 	Search request by undefined
+info: Mar-31-2021 01:07:15: 	2 entries found
+info: Mar-31-2021 01:07:37: 	Search request by undefined
+info: Mar-31-2021 01:07:37: 	2 entries found
+info: Mar-31-2021 01:08:00: 	Search request by undefined
+info: Mar-31-2021 01:08:00: 	2 entries found
+info: Mar-31-2021 01:08:30: 	Search request by undefined
+info: Mar-31-2021 01:08:30: 	2 entries found
+info: Mar-31-2021 01:09:58: 	Search request by undefined
+info: Mar-31-2021 01:09:58: 	2 entries found
+info: Mar-31-2021 01:10:34: 	Search request by undefined
+info: Mar-31-2021 01:10:34: 	2 entries found
+info: Mar-31-2021 01:11:36: 	Search request by undefined
+info: Mar-31-2021 01:11:36: 	2 entries found
+info: Mar-31-2021 01:11:45: 	Search request by undefined
+info: Mar-31-2021 01:11:45: 	2 entries found
+info: Mar-31-2021 01:12:20: 	Search request by undefined
+info: Mar-31-2021 01:12:20: 	2 entries found
+info: Mar-31-2021 01:12:30: 	Search request by undefined
+info: Mar-31-2021 01:12:30: 	2 entries found
+info: Mar-31-2021 01:12:45: 	Search request by undefined
+info: Mar-31-2021 01:12:45: 	2 entries found
+info: Mar-31-2021 01:12:54: 	Search request by undefined
+info: Mar-31-2021 01:12:54: 	2 entries found
+info: Mar-31-2021 01:19:18: 	Search request by undefined
+info: Mar-31-2021 01:19:18: 	2 entries found
+info: Mar-31-2021 01:20:45: 	Search request by undefined
+info: Mar-31-2021 01:20:45: 	2 entries found
+info: Mar-31-2021 01:21:22: 	Search request by undefined
+info: Mar-31-2021 01:21:22: 	2 entries found
+info: Mar-31-2021 01:21:53: 	Search request by undefined
+info: Mar-31-2021 01:21:53: 	2 entries found
+info: Mar-31-2021 01:22:11: 	Search request by undefined
+info: Mar-31-2021 01:22:11: 	2 entries found
+info: Mar-31-2021 01:22:42: 	Search request by undefined
+info: Mar-31-2021 01:22:42: 	2 entries found
+info: Mar-31-2021 01:22:52: 	Search request by undefined
+info: Mar-31-2021 01:22:52: 	2 entries found
+info: Mar-31-2021 01:23:21: 	Search request by undefined
+info: Mar-31-2021 01:23:21: 	2 entries found
+info: Mar-31-2021 01:23:34: 	Search request by undefined
+info: Mar-31-2021 01:23:34: 	2 entries found
+info: Mar-31-2021 01:24:10: 	Search request by undefined
+info: Mar-31-2021 01:24:10: 	2 entries found
+info: Mar-31-2021 01:24:18: 	Search request by undefined
+info: Mar-31-2021 01:24:18: 	2 entries found
+info: Mar-31-2021 01:24:21: 	Search request by undefined
+info: Mar-31-2021 01:24:21: 	2 entries found
+info: Mar-31-2021 01:24:22: 	Search request by undefined
+info: Mar-31-2021 01:24:22: 	2 entries found
+info: Mar-31-2021 01:24:22: 	Search request by undefined
+info: Mar-31-2021 01:24:22: 	2 entries found
+info: Mar-31-2021 01:24:23: 	Search request by undefined
+info: Mar-31-2021 01:24:23: 	2 entries found
+info: Mar-31-2021 01:24:55: 	Search request by undefined
+info: Mar-31-2021 01:24:55: 	2 entries found
+info: Mar-31-2021 01:25:21: 	Search request by undefined
+info: Mar-31-2021 01:25:21: 	2 entries found
+info: Mar-31-2021 01:28:10: 	Search request by undefined
+info: Mar-31-2021 01:28:10: 	2 entries found
+info: Mar-31-2021 01:28:57: 	Search request by undefined
+info: Mar-31-2021 01:28:57: 	2 entries found
+info: Mar-31-2021 01:32:49: 	Search request by undefined
+info: Mar-31-2021 01:32:49: 	2 entries found
+info: Mar-31-2021 01:35:11: 	Search request by undefined
+info: Mar-31-2021 01:35:11: 	2 entries found
+info: Mar-31-2021 01:36:02: 	Search request by undefined
+info: Mar-31-2021 01:36:02: 	2 entries found
+info: Mar-31-2021 01:36:44: 	Search request by undefined
+info: Mar-31-2021 01:36:44: 	2 entries found
+info: Mar-31-2021 01:37:20: 	Search request by undefined
+info: Mar-31-2021 01:37:20: 	2 entries found
+info: Mar-31-2021 01:40:22: 	Search request by undefined
+info: Mar-31-2021 01:40:22: 	2 entries found
+info: Mar-31-2021 01:40:59: 	Search request by undefined
+info: Mar-31-2021 01:40:59: 	2 entries found
+info: Mar-31-2021 01:41:13: 	Search request by undefined
+info: Mar-31-2021 01:41:13: 	2 entries found
+info: Mar-31-2021 01:41:34: 	Search request by undefined
+info: Mar-31-2021 01:41:34: 	2 entries found
+info: Mar-31-2021 01:41:50: 	Search request by undefined
+info: Mar-31-2021 01:41:50: 	2 entries found
+info: Mar-31-2021 01:42:35: 	Search request by undefined
+info: Mar-31-2021 01:42:35: 	2 entries found
+info: Mar-31-2021 01:43:48: 	Search request by undefined
+info: Mar-31-2021 01:43:48: 	2 entries found
+info: Mar-31-2021 01:44:57: 	Search request by undefined
+info: Mar-31-2021 01:44:57: 	2 entries found
+info: Mar-31-2021 01:45:27: 	Search request by undefined
+info: Mar-31-2021 01:45:27: 	2 entries found
+info: Mar-31-2021 01:45:54: 	Search request by undefined
+info: Mar-31-2021 01:45:54: 	2 entries found
+info: Mar-31-2021 01:47:20: 	Search request by undefined
+info: Mar-31-2021 01:47:20: 	2 entries found
+info: Mar-31-2021 01:47:23: 	Search request by undefined
+info: Mar-31-2021 01:47:23: 	2 entries found
+info: Mar-31-2021 01:49:18: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzY4NDMsImV4cCI6MTYxNzE3NzQ0M30.L85nWJo-OnT_p28HWOQTzkLkxbrEFsUN6PzW0-xRxc8
+info: Mar-31-2021 01:49:18: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 01:49:18: 	Create new part request: title:Breakes 1, content:Tesing by user:user@mail.com
+info: Mar-31-2021 01:49:18: 	Successfully created ID: 6064297e369fd1105ae00f69
+info: Mar-31-2021 01:49:18: 	Search request by undefined
+info: Mar-31-2021 01:49:18: 	3 entries found
+info: Mar-31-2021 01:50:18: 	Search request by undefined
+info: Mar-31-2021 01:50:18: 	3 entries found
+info: Mar-31-2021 01:50:34: 	Search request by undefined
+info: Mar-31-2021 01:50:34: 	3 entries found
+info: Mar-31-2021 01:51:05: 	Search request by undefined
+info: Mar-31-2021 01:51:05: 	3 entries found
+info: Mar-31-2021 01:51:32: 	Search request by undefined
+info: Mar-31-2021 01:51:32: 	3 entries found
+info: Mar-31-2021 01:52:06: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcxNzY4NDMsImV4cCI6MTYxNzE3NzQ0M30.L85nWJo-OnT_p28HWOQTzkLkxbrEFsUN6PzW0-xRxc8
+info: Mar-31-2021 01:52:06: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 01:52:06: 	Create new part request: title:Breakes 3, content:More testing by user:user@mail.com
+info: Mar-31-2021 01:52:06: 	Successfully created ID: 60642a26369fd1105ae00f6a
+info: Mar-31-2021 01:52:06: 	Search request by undefined
+info: Mar-31-2021 01:52:06: 	4 entries found
+info: Mar-31-2021 08:31:16: 	Search request by undefined
+info: Mar-31-2021 08:31:16: 	4 entries found
+info: Mar-31-2021 08:32:16: 	Search request by undefined
+info: Mar-31-2021 08:32:16: 	4 entries found
+info: Mar-31-2021 08:33:37: 	Search request by undefined
+info: Mar-31-2021 08:33:37: 	4 entries found
+info: Mar-31-2021 08:35:23: 	Search request by undefined
+info: Mar-31-2021 08:35:23: 	4 entries found
+info: Mar-31-2021 08:36:57: 	Search request by undefined
+info: Mar-31-2021 08:36:57: 	4 entries found
+info: Mar-31-2021 08:47:01: 	Search request by undefined
+info: Mar-31-2021 08:47:01: 	4 entries found
+info: Mar-31-2021 08:49:04: 	Search request by undefined
+info: Mar-31-2021 08:49:04: 	4 entries found
+info: Mar-31-2021 08:53:04: 	Search request by undefined
+info: Mar-31-2021 08:53:04: 	4 entries found
+info: Mar-31-2021 08:53:29: 	Search request by undefined
+info: Mar-31-2021 08:53:29: 	4 entries found
+info: Mar-31-2021 08:53:47: 	Search request by undefined
+info: Mar-31-2021 08:53:47: 	4 entries found
+info: Mar-31-2021 08:54:03: 	Search request by undefined
+info: Mar-31-2021 08:54:03: 	4 entries found
+info: Mar-31-2021 08:54:16: 	Search request by undefined
+info: Mar-31-2021 08:54:16: 	4 entries found
+info: Mar-31-2021 08:54:36: 	Search request by undefined
+info: Mar-31-2021 08:54:36: 	4 entries found
+info: Mar-31-2021 08:55:14: 	Search request by undefined
+info: Mar-31-2021 08:55:14: 	4 entries found
+info: Mar-31-2021 08:55:28: 	Search request by undefined
+info: Mar-31-2021 08:55:28: 	4 entries found
+info: Mar-31-2021 08:55:38: 	Search request by undefined
+info: Mar-31-2021 08:55:38: 	4 entries found
+info: Mar-31-2021 08:56:08: 	Search request by undefined
+info: Mar-31-2021 08:56:08: 	4 entries found
+info: Mar-31-2021 08:56:42: 	Search request by undefined
+info: Mar-31-2021 08:56:42: 	4 entries found
+info: Mar-31-2021 08:56:48: 	Search request by undefined
+info: Mar-31-2021 08:56:48: 	4 entries found
+info: Mar-31-2021 08:57:02: 	Search request by undefined
+info: Mar-31-2021 08:57:02: 	4 entries found
+info: Mar-31-2021 08:57:14: 	Search request by undefined
+info: Mar-31-2021 08:57:14: 	4 entries found
+info: Mar-31-2021 08:57:28: 	Search request by undefined
+info: Mar-31-2021 08:57:28: 	4 entries found
+info: Mar-31-2021 08:57:35: 	Search request by undefined
+info: Mar-31-2021 08:57:35: 	4 entries found
+info: Mar-31-2021 08:58:13: 	Search request by undefined
+info: Mar-31-2021 08:58:13: 	4 entries found
+info: Mar-31-2021 08:58:20: 	Search request by undefined
+info: Mar-31-2021 08:58:20: 	4 entries found
+info: Mar-31-2021 09:01:26: 	Search request by undefined
+info: Mar-31-2021 09:01:26: 	4 entries found
+info: Mar-31-2021 09:01:33: 	Search request by undefined
+info: Mar-31-2021 09:01:33: 	4 entries found
+info: Mar-31-2021 09:01:49: 	Search request by undefined
+info: Mar-31-2021 09:01:49: 	4 entries found
+info: Mar-31-2021 09:02:29: 	Search request by undefined
+info: Mar-31-2021 09:02:29: 	4 entries found
+info: Mar-31-2021 09:02:39: 	Search request by undefined
+info: Mar-31-2021 09:02:39: 	4 entries found
+info: Mar-31-2021 09:02:49: 	Search request by undefined
+info: Mar-31-2021 09:02:49: 	4 entries found
+info: Mar-31-2021 09:02:59: 	Search request by undefined
+info: Mar-31-2021 09:02:59: 	4 entries found
+info: Mar-31-2021 09:03:12: 	Search request by undefined
+info: Mar-31-2021 09:03:12: 	4 entries found
+info: Mar-31-2021 09:03:46: 	Search request by undefined
+info: Mar-31-2021 09:03:46: 	4 entries found
+info: Mar-31-2021 09:04:04: 	Search request by undefined
+info: Mar-31-2021 09:04:04: 	4 entries found
+info: Mar-31-2021 09:04:30: 	Search request by undefined
+info: Mar-31-2021 09:04:30: 	4 entries found
+info: Mar-31-2021 09:04:40: 	Search request by undefined
+info: Mar-31-2021 09:04:40: 	4 entries found
+info: Mar-31-2021 09:04:47: 	Search request by undefined
+info: Mar-31-2021 09:04:47: 	4 entries found
+info: Mar-31-2021 09:04:54: 	Search request by undefined
+info: Mar-31-2021 09:04:54: 	4 entries found
+info: Mar-31-2021 09:06:19: 	Search request by undefined
+info: Mar-31-2021 09:06:19: 	4 entries found
+info: Mar-31-2021 09:06:39: 	Search request by undefined
+info: Mar-31-2021 09:06:39: 	4 entries found
+info: Mar-31-2021 09:07:15: 	Search request by undefined
+info: Mar-31-2021 09:07:15: 	4 entries found
+info: Mar-31-2021 09:07:36: 	Search request by undefined
+info: Mar-31-2021 09:07:36: 	4 entries found
+info: Mar-31-2021 09:12:09: 	Search request by undefined
+info: Mar-31-2021 09:12:09: 	4 entries found
+info: Mar-31-2021 09:16:23: 	Search request by undefined
+info: Mar-31-2021 09:16:23: 	4 entries found
+info: Mar-31-2021 10:02:40: 	Search request by undefined
+info: Mar-31-2021 10:02:40: 	4 entries found
+info: Mar-31-2021 10:03:56: 	Search request by undefined
+info: Mar-31-2021 10:03:56: 	4 entries found
+info: Mar-31-2021 10:05:02: 	Search request by undefined
+info: Mar-31-2021 10:05:02: 	4 entries found
+info: Mar-31-2021 10:05:17: 	Search request by undefined
+info: Mar-31-2021 10:05:17: 	4 entries found
+info: Mar-31-2021 10:05:21: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDY1NjAsImV4cCI6MTYxNzIwNzE2MH0.o4xvx8DPozCd6XSeweqMm4Y189maY3pPRakDV8esJiE
+info: Mar-31-2021 10:05:21: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:06:35: 	Search request by undefined
+info: Mar-31-2021 10:06:35: 	4 entries found
+info: Mar-31-2021 10:06:37: 	Search request by undefined
+info: Mar-31-2021 10:06:37: 	4 entries found
+info: Mar-31-2021 10:07:38: 	Search request by undefined
+info: Mar-31-2021 10:07:38: 	4 entries found
+info: Mar-31-2021 10:07:41: 	Search request by undefined
+info: Mar-31-2021 10:07:41: 	4 entries found
+info: Mar-31-2021 10:09:31: 	Search request by undefined
+info: Mar-31-2021 10:09:31: 	4 entries found
+info: Mar-31-2021 10:09:37: 	Search request by undefined
+info: Mar-31-2021 10:09:37: 	4 entries found
+info: Mar-31-2021 10:12:40: 	Search request by undefined
+info: Mar-31-2021 10:12:40: 	4 entries found
+info: Mar-31-2021 10:12:56: 	Search request by undefined
+info: Mar-31-2021 10:12:56: 	4 entries found
+info: Mar-31-2021 10:13:08: 	Search request by undefined
+info: Mar-31-2021 10:13:08: 	4 entries found
+info: Mar-31-2021 10:13:25: 	Search request by undefined
+info: Mar-31-2021 10:13:25: 	4 entries found
+info: Mar-31-2021 10:13:33: 	Search request by undefined
+info: Mar-31-2021 10:13:33: 	4 entries found
+info: Mar-31-2021 10:13:35: 	Search request by undefined
+info: Mar-31-2021 10:13:35: 	4 entries found
+info: Mar-31-2021 10:14:28: 	Search request by undefined
+info: Mar-31-2021 10:14:28: 	4 entries found
+info: Mar-31-2021 10:14:31: 	Search request by undefined
+info: Mar-31-2021 10:14:31: 	4 entries found
+info: Mar-31-2021 10:14:50: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDcyMTMsImV4cCI6MTYxNzIwNzgxM30.8dXO1GFOrbjAa1E6-ywgG1HZyZdDrIpjMb007f2PREg
+info: Mar-31-2021 10:14:50: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:17:29: 	Search request by undefined
+info: Mar-31-2021 10:17:29: 	4 entries found
+info: Mar-31-2021 10:17:32: 	Search request by undefined
+info: Mar-31-2021 10:17:32: 	4 entries found
+info: Mar-31-2021 10:19:22: 	Search request by undefined
+info: Mar-31-2021 10:19:22: 	4 entries found
+info: Mar-31-2021 10:19:34: 	Search request by undefined
+info: Mar-31-2021 10:19:34: 	4 entries found
+info: Mar-31-2021 10:19:42: 	Search request by undefined
+info: Mar-31-2021 10:19:42: 	4 entries found
+info: Mar-31-2021 10:20:20: 	Search request by undefined
+info: Mar-31-2021 10:20:20: 	4 entries found
+info: Mar-31-2021 10:20:40: 	Search request by undefined
+info: Mar-31-2021 10:20:40: 	4 entries found
+info: Mar-31-2021 10:20:46: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDcyMTMsImV4cCI6MTYxNzIwNzgxM30.8dXO1GFOrbjAa1E6-ywgG1HZyZdDrIpjMb007f2PREg
+info: Mar-31-2021 10:20:46: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:20:46: 	Update part request: id:60639f23df075e7af6299bf7, title:fancy wheel, content:wheel some type by user:user@mail.com
+info: Mar-31-2021 10:20:46: 	Update part id:60639f23df075e7af6299bf7
+info: Mar-31-2021 10:20:47: 	Search request by undefined
+info: Mar-31-2021 10:20:47: 	4 entries found
+info: Mar-31-2021 10:20:50: 	Search request by undefined
+info: Mar-31-2021 10:20:50: 	4 entries found
+info: Mar-31-2021 10:21:10: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDcyMTMsImV4cCI6MTYxNzIwNzgxM30.8dXO1GFOrbjAa1E6-ywgG1HZyZdDrIpjMb007f2PREg
+info: Mar-31-2021 10:21:10: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:21:10: 	Update part request: id:60639f23df075e7af6299bf7, title:fancy wheel, content:wheel some type change by user:user@mail.com
+error: Mar-31-2021 10:21:10: 	Part validation failed: partNumber: Path `partNumber` is required.
+info: Mar-31-2021 10:22:51: 	Search request by undefined
+info: Mar-31-2021 10:22:51: 	4 entries found
+info: Mar-31-2021 10:23:12: 	Search request by undefined
+info: Mar-31-2021 10:23:12: 	4 entries found
+info: Mar-31-2021 10:23:26: 	Search request by undefined
+info: Mar-31-2021 10:23:26: 	4 entries found
+info: Mar-31-2021 10:23:30: 	Search request by undefined
+info: Mar-31-2021 10:23:30: 	4 entries found
+info: Mar-31-2021 10:23:33: 	Search request by undefined
+info: Mar-31-2021 10:23:33: 	4 entries found
+info: Mar-31-2021 10:23:40: 	Search request by undefined
+info: Mar-31-2021 10:23:40: 	4 entries found
+info: Mar-31-2021 10:23:42: 	Search request by undefined
+info: Mar-31-2021 10:23:42: 	4 entries found
+info: Mar-31-2021 10:23:56: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDc4MjAsImV4cCI6MTYxNzIwODQyMH0.Hc-wB3Hw3dKTM7drwcMYJbwAl8mfAagiZrg05q5PJbg
+info: Mar-31-2021 10:23:56: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:23:56: 	Update part request: id:60639f23df075e7af6299bf7, title:change to tire, content:wheel some type by user:user@mail.com
+info: Mar-31-2021 10:23:56: 	Update part id:60639f23df075e7af6299bf7
+info: Mar-31-2021 10:23:56: 	Search request by undefined
+info: Mar-31-2021 10:23:56: 	4 entries found
+info: Mar-31-2021 10:24:01: 	Search request by undefined
+info: Mar-31-2021 10:24:01: 	4 entries found
+info: Mar-31-2021 10:24:06: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDc4MjAsImV4cCI6MTYxNzIwODQyMH0.Hc-wB3Hw3dKTM7drwcMYJbwAl8mfAagiZrg05q5PJbg
+info: Mar-31-2021 10:24:06: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:24:06: 	Update part request: id:60639f23df075e7af6299bf7, title:change to tire, content:wheel some type, test change by user:user@mail.com
+info: Mar-31-2021 10:24:06: 	Update part id:60639f23df075e7af6299bf7
+info: Mar-31-2021 10:24:06: 	Search request by undefined
+info: Mar-31-2021 10:24:06: 	4 entries found
+info: Mar-31-2021 10:24:40: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDc4MjAsImV4cCI6MTYxNzIwODQyMH0.Hc-wB3Hw3dKTM7drwcMYJbwAl8mfAagiZrg05q5PJbg
+info: Mar-31-2021 10:24:40: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:24:40: 	Create new part request: title:for delete, content:asdsad by user:user@mail.com
+info: Mar-31-2021 10:24:40: 	Successfully created ID: 6064a248369fd1105ae00f6b
+info: Mar-31-2021 10:26:42: 	Parts-service-app listening on port 3000
+info: Mar-31-2021 10:26:42: 	MongoDB Connection established
+info: Mar-31-2021 10:26:48: 	Search request by undefined
+info: Mar-31-2021 10:26:48: 	5 entries found
+info: Mar-31-2021 10:27:04: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDc4MjAsImV4cCI6MTYxNzIwODQyMH0.Hc-wB3Hw3dKTM7drwcMYJbwAl8mfAagiZrg05q5PJbg
+info: Mar-31-2021 10:27:04: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:27:04: 	Create new part request: title:new, content:asdsad by user:user@mail.com
+info: Mar-31-2021 10:27:04: 	Successfully created ID: 6064a2d8277cc3cc83ea895d
+info: Mar-31-2021 10:27:04: 	Search request by undefined
+info: Mar-31-2021 10:27:04: 	6 entries found
+info: Mar-31-2021 10:27:06: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDc4MjAsImV4cCI6MTYxNzIwODQyMH0.Hc-wB3Hw3dKTM7drwcMYJbwAl8mfAagiZrg05q5PJbg
+info: Mar-31-2021 10:27:06: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:27:06: 	Delete part request: id:6064a2d8277cc3cc83ea895d
+info: Mar-31-2021 10:27:06: 	Delete result: n: 1, ok: 1, deletedCount: 1
+info: Mar-31-2021 10:27:09: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMDc4MjAsImV4cCI6MTYxNzIwODQyMH0.Hc-wB3Hw3dKTM7drwcMYJbwAl8mfAagiZrg05q5PJbg
+info: Mar-31-2021 10:27:09: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 10:27:09: 	Delete part request: id:6064a248369fd1105ae00f6b
+info: Mar-31-2021 10:27:09: 	Delete result: n: 1, ok: 1, deletedCount: 1
+info: Mar-31-2021 10:27:11: 	Search request by undefined
+info: Mar-31-2021 10:27:11: 	4 entries found
+info: Mar-31-2021 10:28:00: 	Search request by undefined
+info: Mar-31-2021 10:28:00: 	4 entries found
+info: Mar-31-2021 10:28:02: 	Search request by undefined
+info: Mar-31-2021 10:28:02: 	4 entries found
+info: Mar-31-2021 10:29:54: 	Search request by undefined
+info: Mar-31-2021 10:29:54: 	4 entries found
+info: Mar-31-2021 10:30:15: 	Search request by undefined
+info: Mar-31-2021 10:30:15: 	4 entries found
+info: Mar-31-2021 10:30:25: 	Search request by undefined
+info: Mar-31-2021 10:30:25: 	4 entries found
+info: Mar-31-2021 10:30:58: 	Search request by undefined
+info: Mar-31-2021 10:30:58: 	4 entries found
+info: Mar-31-2021 10:31:03: 	Search request by undefined
+info: Mar-31-2021 10:31:03: 	4 entries found
+info: Mar-31-2021 10:31:38: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QtdXNlckBtYWlsLmNvbSIsInVzZXJJZCI6IjYwNjRhMzk3NzQxM2FkMzJkN2FjMDM1ZiIsImlhdCI6MTYxNzIwODIyNSwiZXhwIjoxNjE3MjA4ODI1fQ.0A6DauMp-fB0_fdRlDku_NT8c5q4dkLBm4xEsYzaqCo
+info: Mar-31-2021 10:31:38: 	User verified: email: test-user@mail.com, userId: 6064a3977413ad32d7ac035f
+info: Mar-31-2021 10:31:38: 	Create new part request: title:Brake 4, content:Testing another user by user:test-user@mail.com
+info: Mar-31-2021 10:31:38: 	Successfully created ID: 6064a3ea277cc3cc83ea895e
+info: Mar-31-2021 10:31:38: 	Search request by undefined
+info: Mar-31-2021 10:31:38: 	5 entries found
+info: Mar-31-2021 16:27:56: 	Parts-service-app listening on port 3000
+info: Mar-31-2021 16:27:56: 	MongoDB Connection established
+info: Mar-31-2021 16:29:11: 	Search request by undefined
+info: Mar-31-2021 16:29:11: 	5 entries found
+info: Mar-31-2021 16:43:49: 	Search request by undefined
+info: Mar-31-2021 16:43:49: 	5 entries found
+info: Mar-31-2021 17:16:29: 	Search request by undefined
+info: Mar-31-2021 17:16:29: 	5 entries found
+info: Mar-31-2021 17:17:18: 	Search request by undefined
+info: Mar-31-2021 17:17:18: 	5 entries found
+info: Mar-31-2021 17:17:59: 	Search request by undefined
+info: Mar-31-2021 17:17:59: 	5 entries found
+info: Mar-31-2021 17:18:25: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMzI2MzgsImV4cCI6MTYxNzIzMzIzOH0.-1K54OkYxX-alesp6mKIt4qFVyJbgvP62gfUvvKrqyQ
+info: Mar-31-2021 17:18:25: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 17:18:25: 	Update part request: id:60639f23df075e7af6299bf7, title:change to tire, content:wheel some type, test change by user:user@mail.com
+info: Mar-31-2021 17:18:25: 	Update part id:60639f23df075e7af6299bf7
+info: Mar-31-2021 17:18:25: 	Search request by undefined
+info: Mar-31-2021 17:18:25: 	5 entries found
+info: Mar-31-2021 17:20:09: 	Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXJAbWFpbC5jb20iLCJ1c2VySWQiOiI2MDYyYjAwNjBlZTZkZjNjZmQyODEyMDgiLCJpYXQiOjE2MTcyMzI2MzgsImV4cCI6MTYxNzIzMzIzOH0.-1K54OkYxX-alesp6mKIt4qFVyJbgvP62gfUvvKrqyQ
+info: Mar-31-2021 17:20:09: 	User verified: email: user@mail.com, userId: 6062b0060ee6df3cfd281208
+info: Mar-31-2021 17:20:09: 	Create new part request: title:New motor, content:kjaskdask  askjdlkas d by user:user@mail.com
+info: Mar-31-2021 17:20:09: 	Successfully created ID: 606503a960dc5d414283fe5c
+info: Mar-31-2021 17:20:09: 	Search request by undefined
+info: Mar-31-2021 17:20:09: 	6 entries found
+info: Mar-31-2021 17:20:36: 	Search request by undefined
+info: Mar-31-2021 17:20:36: 	6 entries found
+info: Mar-31-2021 17:21:25: 	Search request by undefined
+info: Mar-31-2021 17:21:25: 	6 entries found
+info: Apr-07-2021 15:57:38: 	Parts-service-app listening on port 3000
+error: Apr-07-2021 15:57:38: 	MongoDB Connection failed
+error: Apr-07-2021 15:57:38: 	undefined
+info: Apr-07-2021 15:59:30: 	Search request by undefined
+error: Apr-07-2021 15:59:40: 	Operation `carParts.find()` buffering timed out after 10000ms
+info: Apr-07-2021 16:00:14: 	Search request by undefined
+info: Apr-07-2021 16:00:21: 	Search request by undefined
+error: Apr-07-2021 16:00:24: 	Operation `carParts.find()` buffering timed out after 10000ms
+info: Apr-07-2021 16:00:27: 	Parts-service-app listening on port 3000
+info: Apr-07-2021 16:00:27: 	MongoDB Connection established
+info: Apr-07-2021 16:00:37: 	Search request by undefined
+info: Apr-07-2021 16:00:37: 	6 entries found
+info: Apr-07-2021 16:06:33: 	Search request by undefined
+info: Apr-07-2021 16:06:33: 	6 entries found
+info: Apr-07-2021 16:06:41: 	Search request by undefined
+info: Apr-07-2021 16:06:41: 	6 entries found
+info: Apr-07-2021 16:19:43: 	Search request by undefined
+info: Apr-07-2021 16:19:43: 	6 entries found
